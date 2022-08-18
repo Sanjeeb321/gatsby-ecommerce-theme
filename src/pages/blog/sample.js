@@ -13,17 +13,15 @@ const SamplePage = (props) => {
           <div className={styles.blogContainer}>
             <Blog
               category={'design'}
-              title={'Friends of Sydney: Flora Fricker'}
-              image={'/blogFeatured.png'}
+              title={'Real estate developers in Guwahati | Uttarayan Group'}
+              image={'/Uttarayan Group.jpg'}
               alt={''}
             >
               <div className={styles.content}>
                 <p className={styles.excerpt}>
-                  London-based floral designer Flora Fricker champions seasonal
-                  British flowers and UK producers in her beautiful and
-                  sustainable creations. This season, we worked with Flora to
-                  style Sunspel stores for Christmas, for which she produced
-                  eye-catching sustainably sourced wreaths.
+Uttarayan Ville has been re-defining living standards with a plethora of aspects across Northeast.
+Having a construction experience of over Five Lac Sq Ft., we have dedicated teams looking over the different segments of Construction work, from Designing to Finishing! Over our years of market experience, we've finished Eight Well-equipped and distinctly styled Construction Projects across Northeast India and have pipelined few upcoming projects.
+With Flats accommodating provisions for Club Houses, 1 BHK to 4 BHK home options, Guest Parking, Steams, Jacuzzi, Uttarayan Group is an Expert for providing homes for Modern Urban Living.
                 </p>
                 <p className={styles.blogParagraph}>
                   Delaware limited liability company (The Sydney) collects
